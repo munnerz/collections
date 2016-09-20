@@ -1,0 +1,6 @@
+cask "intellij-idea"
+cask "istat-menus"
+cask "sublime-text"
+cask "slack"
+cask "docker"
+cask "iterm2"
