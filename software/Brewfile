@@ -6,3 +6,12 @@ cask "docker"
 cask "iterm2"
 cask "google-chrome"
 cask "postman"
+
+# Go
+brew install go
+
+# Web
+brew "hugo"
+
+# JavaScript
+brew "npm"
