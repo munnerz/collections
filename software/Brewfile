@@ -7,6 +7,9 @@ cask "iterm2"
 cask "google-chrome"
 cask "postman"
 
+brew "gpg"
+brew "keybase"
+
 # Go
 brew install go
 
@@ -15,3 +18,7 @@ brew "hugo"
 
 # JavaScript
 brew "npm"
+
+brew "protobuf"
+brew "httpstat"
+brew "watch"
