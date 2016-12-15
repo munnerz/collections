@@ -1,24 +1,38 @@
-cask "intellij-idea"
-cask "istat-menus"
+# Media
+cask "spotify"
+
+# Text editors
+cask "visual-studio-code"
 cask "sublime-text"
+cask "intellij-idea"
+
+# Chat
 cask "slack"
+cask "colloquy"
+
+# Fonts
+cask "font-fira-code"
+
+# Tools
 cask "docker"
 cask "iterm2"
-cask "google-chrome"
-cask "postman"
-
+cask "transmission-remote-gui"
 brew "gpg"
 brew "keybase"
+cask "istat-menus"
+cask "postman"
+brew "httpstat"
+brew "watch"
+
+# Protobuf
+brew "protobuf"
 
 # Go
 brew install go
 
 # Web
+cask "google-chrome"
 brew "hugo"
 
 # JavaScript
 brew "npm"
-
-brew "protobuf"
-brew "httpstat"
-brew "watch"
