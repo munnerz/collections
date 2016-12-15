@@ -28,7 +28,7 @@ brew "watch"
 brew "protobuf"
 
 # Go
-brew install go
+brew "go"
 
 # Web
 cask "google-chrome"
