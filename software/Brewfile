@@ -25,6 +25,7 @@ cask "istat-menus"
 cask "postman"
 brew "httpstat"
 brew "watch"
+cask "flux"
 
 # Protobuf
 brew "protobuf"
